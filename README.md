@@ -1,6 +1,6 @@
 ![banner](./logo.png)
 
-# 🌍 WorldGuessr Cheat
+# WorldGuessr Cheat
 
 This is a small Python script using [mitmproxy](https://mitmproxy.org/) to intercept and extract coordinates from Google Maps image search requests.
 
@@ -8,7 +8,7 @@ Whenever a matching request is detected, it automatically opens the exact locati
 
 ---
 
-## 🚀 What It Does
+## What It Does
 
 - Listens for specific internal Google Maps API requests.
 - Parses the request data to extract latitude and longitude.
@@ -16,7 +16,7 @@ Whenever a matching request is detected, it automatically opens the exact locati
 
 ---
 
-## ⚠️ Important Usage Notice
+## Important Usage Notice
 
 - **Only use this against friends in private games.**
 - **Do not use in public lobbies or online matches.**
